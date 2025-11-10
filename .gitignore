@@ -1,0 +1,5 @@
+# Pycharm IDE directory (MC)
+.idea
+
+# Python virtual environment (MC)
+.venv
